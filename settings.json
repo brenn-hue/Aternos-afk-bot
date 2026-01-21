@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "candyman694200-dTnZ.aternos.me:45095", 
-    "port": 45095,   
+    "ip": "", 
+    "port": ,   
     "version": "1.12.1"   
   },
   
